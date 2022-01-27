@@ -16,4 +16,7 @@ here is **word** that is **bold**
 ## slightly smaller
 ### even smaller
 #### tiny
-##### really tiny
+##### Difficulties
+1. difficulty #1
+1. difficulty #3
+1. difficulty #2
