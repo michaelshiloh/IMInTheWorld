@@ -15,7 +15,7 @@ here is **word** that is **bold**
 
 ## picture of my homework
 
-![my homework](picture.jpg)
+![my homework](vegeSpread.png)
 
 ### even smaller
 #### tiny
