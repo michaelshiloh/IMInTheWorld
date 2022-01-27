@@ -22,5 +22,5 @@ here is **word** that is **bold**
 ##### Difficulties
 1. difficulty #1
 1. difficulty #3
-![tower](tower)
+![tower](craneDissassemblingTower2.jpg)
 3. difficulty #2
