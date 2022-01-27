@@ -13,7 +13,10 @@ here is **word** that is **bold**
 
 
 
-## slightly smaller
+## picture of my homework
+
+![my homework](picture.jpg)
+
 ### even smaller
 #### tiny
 ##### Difficulties
