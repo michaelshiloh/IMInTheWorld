@@ -22,4 +22,5 @@ here is **word** that is **bold**
 ##### Difficulties
 1. difficulty #1
 1. difficulty #3
-1. difficulty #2
+![tower](tower)
+3. difficulty #2
