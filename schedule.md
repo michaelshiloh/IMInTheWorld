@@ -105,10 +105,10 @@ parade!
 
 ### Day 12. Sunday June 12
 - **07:00-09:00** Breakfast
-- 10:00-11:00Design Factory Shenkar (public transportation; 12 Anne Frank, Ramat Gan)
-- 14:00-16:00[*Tikkun Olam Makers*](https://tomglobal.org/) (public transportation; 7 HaPelech, Tel Aviv)
-- 16:00-17:00Galileo Special Effects (7 Simtat HaShach, Tel Aviv) (Mickey and Rafael)
-- 17:00-18:00TAMI (Tel Aviv Makers International)
+- **10:00-11:00** Design Factory Shenkar (public transportation; 12 Anne Frank, Ramat Gan)
+- **14:00-16:00** [*Tikkun Olam Makers*](https://tomglobal.org/) (public transportation; 7 HaPelech, Tel Aviv)
+- **16:00-17:00** Galileo Special Effects (7 Simtat HaShach, Tel Aviv) (Mickey and Rafael)
+- **17:00-18:00** TAMI (Tel Aviv Makers International)
 
 ### Day 13. Monday June 13
 - **07:00-09:00** Breakfast
