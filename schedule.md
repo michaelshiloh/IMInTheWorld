@@ -39,9 +39,8 @@ House*](https://www.weizmann.ac.il/vs/on-campus/weizmann-house)
 - **11:00-11:45** General Orientation and Israel 101
 - **11:45-12:45** Lunch break
 - **12:45** Bus departs dorms
-- **13:00-15:30** [*Yitzhak Rabin
-- Center*](http://www.rabincenter.org.il/Web/En/Museum/About/Default.aspx)
-- **15:30** Bus departs Rabin Center +Omer and Ofer
+- **13:00-15:30** [*Yitzhak Rabin - Center*](http://www.rabincenter.org.il/Web/En/Museum/About/Default.aspx)
+- **15:30** Bus departs Rabin Center 
 - **16:00-20:00** Walking tour of Tel Aviv-Jaffa (return by public
 transportation)
 
@@ -71,7 +70,7 @@ Arduino
 
 ### Day 7. Tuesday June 7
 - **07:00-09:00** Breakfast
-- ** Morning** Class
+- **Morning** Class at Academic Center
 - **13:00** Depart for Shenkar
 - **13:30-15:15** Shenkar
 	- Public transportation; 12 Anne Frank St., Ramat Gan
@@ -112,26 +111,22 @@ parade!
 - 17:00-18:00TAMI (Tel Aviv Makers International)
 
 ### Day 13. Monday June 13
-
-**07:00-09:00** Breakfast
-	- **08:30** Bus departs dorms +Omer and Ofer
-**All day** Haifa with [*Valeria
-Geselev*](https://www.yallashoola.com/val)
+- **07:00-09:00** Breakfast
+- **08:30** Bus departs dorms 
+- **All day** Haifa with [*Valeria Geselev*](https://www.yallashoola.com/val)
 
 ### Day 14. Tuesday June 14
-**07:00-09:00** Breakfast
-**09:00-17:00** Class
+- **07:00-09:00** Breakfast
+- **09:00-17:00** Class
 
 ### Day 15. Wednesday June 15
-**07:00-09:00** Breakfast
-**09:00-17:00** Class
+- **07:00-09:00** Breakfast
+- **09:00-17:00** Class
 
 ### Day 16. Thursday June 16 - last day
-**07:00-09:00** Breakfast
-	- **08:00** Bus departs dorms +Omer and Ofer
-**Morning** [*Caesarea National
-Park*](https://en.parks.org.il/reserve-park/caesarea-national-park/)
+- **07:00-09:00** Breakfast
+- **08:00** Bus departs dorms 
+- **Morning** [*Caesarea National Park*](https://en.parks.org.il/reserve-park/caesarea-national-park/)
 +Dafna Koren
-**Afternoon** [*Jisr
-Az-Zarqa*](https://en.wikipedia.org/wiki/Jisr_az-Zarqa) +Muhammad Amash
+**Afternoon** [*Jisr Az-Zarqa*](https://en.wikipedia.org/wiki/Jisr_az-Zarqa) 
 **19:30** Closing Dinner (Benny HaDayag, Tel Aviv Port)
