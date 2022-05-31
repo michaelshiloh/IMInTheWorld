@@ -127,6 +127,5 @@ parade!
 - **07:00-09:00** Breakfast
 - **08:00** Bus departs dorms 
 - **Morning** [*Caesarea National Park*](https://en.parks.org.il/reserve-park/caesarea-national-park/)
-+Dafna Koren
-**Afternoon** [*Jisr Az-Zarqa*](https://en.wikipedia.org/wiki/Jisr_az-Zarqa) 
-**19:30** Closing Dinner (Benny HaDayag, Tel Aviv Port)
+- **Afternoon** [*Jisr Az-Zarqa*](https://en.wikipedia.org/wiki/Jisr_az-Zarqa) 
+- **19:30** Closing Dinner (Benny HaDayag, Tel Aviv Port)
