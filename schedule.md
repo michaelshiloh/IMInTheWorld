@@ -35,7 +35,7 @@ House*](https://www.weizmann.ac.il/vs/on-campus/weizmann-house)
 
 ### Day 2. Thursday June 2
 - **07:00-09:00** Breakfast
-- **09:00-11:00** Class - marble maze
+- **09:00-11:00** Class - Introduction to Arduino
 - **11:00-11:45** General Orientation and Israel 101
 - **11:45-12:45** Lunch break
 - **12:45** Bus departs dorms
@@ -46,8 +46,7 @@ transportation)
 
 ### Day 3. Friday June 3 - legislative day
 - **07:00-09:00** Breakfast
-- **09:00-13:00** Class (NYUTA is open only until 3pm) - Introduction to
-Arduino
+- **09:00-13:00** Class (NYUTA is open only until 3pm) - More Arduino
 
 ### Day 4. Saturday June 4 - Dead Sea / Masada (Yael)
 - No breakfast at Bnei Dan 
