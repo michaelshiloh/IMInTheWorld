@@ -67,22 +67,24 @@ What if want to work with more than just the LED on the Arduino?
 
 How will connect to these pins?
 
+https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/
+
 The most confusing part of this course is usually the solderless breadboard:
-![](media/breadboard.jpg)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/breadboard.jpg)
 Image courtesy of
 [SparkFun](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
 
 Let's extend this circuit to the breadboard:
 
-![](media/ArduinoControllingLED_schem.png)
-![](media/ArduinoControllingLED_bb.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoControllingLED_schem.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoControllingLED_bb.png)
 
 #### Digital Input
 
 Adding a switch
 
-![](media/ArduinoLEDMomentarySwitch_schem.png)
-![](media/ArduinoLEDMomentarySwitch_bb.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoLEDMomentarySwitch_schem.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoLEDMomentarySwitch_bb.png)
 
 ````
 void setup() {
@@ -146,13 +148,13 @@ Other things you can do:
 
 Add another LED on a different pin
 
-![](media/ArduinoTwoLEDs_schem.png)
-![](media/ArduinoTwoLEDs_bb.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoTwoLEDs_schem.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoTwoLEDs_bb.png)
 
 Add another switch on a different pin
 
-![](media/ArduinoTwoSwitches_schem.png)
-![](media/ArduinoTwoSwitches_bb.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoTwoSwitches_schem.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoTwoSwitches_bb.png)
 
 #### In-class exercise
 
