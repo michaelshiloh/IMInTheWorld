@@ -163,7 +163,7 @@ switch is pressed.
 Using two switches you can select between four patterns.
 How is that possible?
 
-### June 2
+### June 3
 #### Motor Driver 
 
 Circuit Schematic
