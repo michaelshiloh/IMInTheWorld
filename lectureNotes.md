@@ -163,3 +163,113 @@ switch is pressed.
 Using two switches you can select between four patterns.
 How is that possible?
 
+### June 2
+#### Motor Driver 
+
+Circuit Schematic
+
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/arduinoSparkFunMotorDriver_schem.jpg)
+
+How did I choose which pins to use?
+- Never use pins 0 and 1 (dedicated for USB communication)
+- Avoid pin 13 if possible (it flashes 3 times on reset)
+- Directional control pins (ain1, ain2, bin1, bin2) only require
+	digital signals so avoid pins with extra functionality 
+	(analog input, SPI, PWM)
+- Inclusion of the servo library 
+	disables `analogWrite()` on pins 9 and 10
+	(I'm not using the servo library now but perhaps I'll add it later)
+- Use of the `tone()` function 
+	disables `analogWrite()` on pins 3 and 11
+	(I'm not using the `tone()` function now but perhaps I'll add it later)
+- This leaves PWM pins 5 and 6 for the speed controls (pwma and pwmb)
+- Might as well choose nearby digital pins
+
+Code
+
+````
+
+const int ain1Pin = 3;
+const int ain2Pin = 4;
+const int pwmAPin = 5;
+
+const int bin1Pin = 8;
+const int bin2Pin = 7;
+const int pwmBPin = 6;
+
+
+void setup() {
+  pinMode(ain1Pin, OUTPUT);
+  pinMode(ain2Pin, OUTPUT);
+  pinMode(pwmAPin, OUTPUT); // not needed really
+}
+
+void loop() {
+  // turn in one direction, full speed
+  Serial.println("full speed");
+  analogWrite(pwmAPin, 255);
+  digitalWrite(ain1Pin, HIGH);
+  digitalWrite(ain2Pin, LOW);
+  // stay here for a second
+  delay(1000);
+
+  // slow down
+  Serial.println("slowing down");
+  int speed = 255;
+  while (speed--) {
+    analogWrite(pwmAPin, speed);
+    delay(20);
+  }
+}
+
+````
+
+Here is the code that Noah developed to control the motor speed and
+direction using a potentiometer:
+
+````
+const int ain1Pin = 3;
+const int ain2Pin = 4;
+const int pwmAPin = 5;
+
+const int bin1Pin = 8;
+const int bin2Pin = 7;
+const int pwmBPin = 6;
+
+const int potPin = A5;
+
+
+void setup() {
+  pinMode(ain1Pin, OUTPUT);
+  pinMode(ain2Pin, OUTPUT);
+  pinMode(pwmAPin, OUTPUT); // not needed really
+}
+
+void loop() {
+  int potVal = analogRead(potPin);
+  delay(20);
+  if (potVal > 1023 / 2) { //counterclockwise
+    digitalWrite(ain1Pin, HIGH);
+    digitalWrite(ain2Pin, LOW);
+    analogWrite(pwmAPin, potVal / 4);
+  } else { //clockwise
+    digitalWrite(ain1Pin, LOW);
+    digitalWrite(ain2Pin, HIGH);
+    analogWrite(pwmAPin, 255 - potVal / 4);
+  }
+}
+````
+
+#### Responsive Interactions: Avoiding the use of Delay
+
+Tutorial](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
+
+So much for blinking. What if we want to move a servo motor at the same time?
+
+Adafruit [Multitasking Tutorial Part
+I](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+
+Play a melody and blink an LED
+without using `delay()`:
+[toneMelodyAndBlinkWithoutDelay](https://github.com/michaelshiloh/toneMelodyAndBlinkWithoutDelay)
+
