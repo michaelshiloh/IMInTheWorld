@@ -46,7 +46,13 @@ transportation)
 
 ### Day 3. Friday June 3 - legislative day
 - **07:00-09:00** Breakfast
-- **09:00-13:00** Class (NYUTA is open only until 3pm) - More Arduino
+- **09:00-11:15** class
+- **11:15-12:15** lunch
+- **12:15** taxi to visit artist studio (Liat Segal)
+- **12:45-2:45** Liat Segal
+- Rest of the day is free
+- Note that tomorrow we have an early morning start and no breakfast at Bnei Dan
+- Extra instructions from Edan regarding tomorrow's agenda
 
 ### Day 4. Saturday June 4 - Dead Sea / Masada (Yael)
 - No breakfast at Bnei Dan 
@@ -56,7 +62,7 @@ transportation)
 - Dead Sea
 
 ### Day 5. Sunday June 5 - Jerusalem 
-- No breakfast at bnei dan
+- No breakfast at Bnei Dan
 - **7:30** Bus departs dorms +Omer and Ofer
 - Breakfast at Aroma on the way
 
