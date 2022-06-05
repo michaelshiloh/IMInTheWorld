@@ -264,6 +264,19 @@ void loop() {
 
 Tutorial](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
 
+
+### June 6
+#### Robots!
+
+- Decide: Humanoid? Animal? Neither?
+- Make a body
+- Give it the ability to move 
+- Option: add servo motor
+
+Time permitting:
+
+#### Multitasking without `delay()`
+
 So much for blinking. What if we want to move a servo motor at the same time?
 
 Adafruit [Multitasking Tutorial Part
@@ -272,4 +285,100 @@ I](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 Play a melody and blink an LED
 without using `delay()`:
 [toneMelodyAndBlinkWithoutDelay](https://github.com/michaelshiloh/toneMelodyAndBlinkWithoutDelay)
+
+#### Human-Robot Interaction
+
+- Michal's video [lecture](https://www.youtube.com/watch?v=MX0TqQEE1o0)
+
+Some of the important points:
+
+Human Computer Interactions (HRI)
+and ethical questions
+
+What is a robot?
+- Difference between robot & computer: robot has a body and can move
+
+3 types of robots:
+- industrial robots: replaces people in various manual industry
+- service robots: interacts more with people
+- social robots: designed mainly for its interaction with people
+
+HRI
+- When people interact with objects, we related differently if we see a face
+- Designers know this and put in a face
+- Even when it isn't designed we look for a face
+
+- We project human-human behavior to computer-human interactions
+- We do this much more with robots
+- We do this even though we know they are robots
+
+Hitchbot
+- Designed to look homeless
+- very simple technically, was just to  his destination
+- Was able to cross the country due to empathy he generated
+- Was "murdered" in Philadelphia
+
+Roomba: People sad when Roomba malfunctioned
+other: apparently people have an easier time learning second language w/ robot
+
+Paro - therapeutic robot for the elderly
+- looks like a baby seal
+- note that the demonstrating woman refers to robot as "he" not "it"
+
+Jibo - MIT grads, lots of energy and money put into the project
+
+Uncanny valley - discomfort around things that are very much like humans, 
+	but aren't 
+	- Note where corpse is
+	- note that things that move make us more uncomfortable
+	- robot designers must be very aware of this
+
+Darling et al: would people be willing to break ("kill") bots?
+	- done with very simple "bristle bots"
+
+Exoskellaton
+
+Guy Hoffman
+- Background in animation
+- Paid a lot of attention the movements of the lamp
+- Does not move like a robot
+- Invokes empathy
+- White robot (kip) carries  on this project
+	- Reacts to loud noise by being startled
+
+Elliq - installed next to tablet and draws user's attention to tablet
+Asimo and face - maybe more uncanny valley
+all robots at CES2017 are trying to stay away from Uncanny Valley
+
+what about size?
+- robots used to be human sized
+- now smaller, like pets
+
+voice?
+- "peppy" etc
+
+Behavior?
+- google team
+
+**Is it ethical and smart to suggest to people that robots are not machines?**
+
+Sherry Turkle asked children if they would want robot babysitter
+
+Problems?
+- Is this a form of lying?
+	- it is directed against weakest elements of society (children, elderly,
+		mentaly disabled)
+- argument is that this is a supplement and not a replacement for humans
+	- can we keep that up?
+- one sided emotional relationship
+- Some possible paths:
+	- prohibit
+
+now we move from ethical questions of using robots to questions of ethical
+treatement of robots
+
+boston dynamics videos aroused response against violence towards robots
+
+- children were violent towards robot
+- adults vandalized K5 surveillance robot
 
