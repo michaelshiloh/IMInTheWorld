@@ -290,10 +290,10 @@ without using `delay()`:
 
 - Michal's video [lecture](https://www.youtube.com/watch?v=MX0TqQEE1o0)
 
-Some of the important points:
+It's in Hebrew but many of the slides are in English. Here are some notes to
+accompany the video:
 
-Human Computer Interactions (HRI)
-and ethical questions
+Lecture: Human Computer Interactions (HRI) and Ethical Questions
 
 What is a robot?
 - Difference between robot & computer: robot has a body and can move
@@ -301,54 +301,60 @@ What is a robot?
 3 types of robots:
 - industrial robots: replaces people in various manual industry
 - service robots: interacts more with people
-- social robots: designed mainly for its interaction with people
+- social robots: designed primarily for its interaction with people
 
 HRI
-- When people interact with objects, we related differently if we see a face
-- Designers know this and put in a face
-- Even when it isn't designed we look for a face
+- When people interact with objects, we relate differently if we see a face
+- Designers use this fact intentionally
+- Even when it isn't designed in we have evolved to find faces
 
-- We project human-human behavior to computer-human interactions
-- We do this much more with robots
+- We tend to project human-human behavior to computer-human interactions
+- We do this even more with robots
 - We do this even though we know they are robots
 
 Hitchbot
 - Designed to look homeless
-- very simple technically, was just to  his destination
-- Was able to cross the country due to empathy he generated
-- Was "murdered" in Philadelphia
+- Very simple technically, was just able to indicate his destination
+- Was able to cross the country due to the empathy he generated (people gave
+	it rides)
+- On the way back was "murdered" in Philadelphia
 
-Roomba: People sad when Roomba malfunctioned
-other: apparently people have an easier time learning second language w/ robot
+- Roomba: People sad when Roomba malfunctioned
+- other: apparently people have an easier time learning second language w/ robot
 
 Paro - therapeutic robot for the elderly
 - looks like a baby seal
 - note that the demonstrating woman refers to robot as "he" not "it"
 
-Jibo - MIT grads, lots of energy and money put into the project
+Jibo - MIT alums, lots of energy and money put into the project but it went
+nowhere
 
 Uncanny valley - discomfort around things that are very much like humans, 
 	but aren't 
 	- Note where corpse is
 	- note that things that move make us more uncomfortable
-	- robot designers must be very aware of this
+	- robot designers must be very aware of this and avoid it
 
-Darling et al: would people be willing to break ("kill") bots?
-	- done with very simple "bristle bots"
+Darling et al: did some interesting research with extremely simple devices
+([Bristlebots](https://www.makerspaces.com/how-to-make-a-bristlebot/) )
+to find out how simple a device could be but still 
+generate empathy by asking people to "kill" it after playing with it.
+- Conclusion: People were extremely reluctant!
 
-Exoskellaton
+Exoskellaton 
 
-Guy Hoffman
-- Background in animation
-- Paid a lot of attention the movements of the lamp
-- Does not move like a robot
+Lamp designed by Guy Hoffman
+- He has a background in animation and 
+paid a lot of attention the movements of the lamp
+- It does not move like a robot
 - Invokes empathy
-- White robot (kip) carries  on this project
-	- Reacts to loud noise by being startled
+- White robot (Kip) carries on ideas from this project and adds 
+	sensitivity to sound; the robot is easily "starteled"
 
-Elliq - installed next to tablet and draws user's attention to tablet
-Asimo and face - maybe more uncanny valley
-all robots at CES2017 are trying to stay away from Uncanny Valley
+- Elliq - installed next to tablet and draws user's attention to tablet
+- Asimo and face - maybe more uncanny valley
+- All robots at CES2017 look the same as they 
+are trying to stay away from Uncanny Valley
 
 what about size?
 - robots used to be human sized
@@ -358,27 +364,35 @@ voice?
 - "peppy" etc
 
 Behavior?
-- google team
+- Google has a whole team dedicated to crafting elaborate answers 
+for Alexa to questions such as "I feel stressed today"
 
 **Is it ethical and smart to suggest to people that robots are not machines?**
 
-Sherry Turkle asked children if they would want robot babysitter
+Sherry Turkle asked children if they would prefer a robot babysitter. Many
+of them said yes.
 
-Problems?
+
+What ethical questions does this raise?
 - Is this a form of lying?
 	- it is directed against weakest elements of society (children, elderly,
-		mentaly disabled)
-- argument is that this is a supplement and not a replacement for humans
-	- can we keep that up?
-- one sided emotional relationship
-- Some possible paths:
-	- prohibit
+		mentaly disabled)?
+- Designers argue that this is a **supplement** and not a replacement for humans
+	- But can we keep that up? How long before we stop visiting the elderly
+	and assume the robot is doing the job?
+- Note that no matter how well the robot is designed, it is still
+a one sided emotional relationship
+- Some possible paths forward:
+	- Prohibit projects of this sort
+	- Regulate
+	- Wait until we have fully conscious and intelligent robots
 
-now we move from ethical questions of using robots to questions of ethical
+
+Now we move from ethical questions of using robots to questions of ethical
 treatement of robots
 
-boston dynamics videos aroused response against violence towards robots
+Boston Dynamics videos aroused response against violence towards robots
 
-- children were violent towards robot
-- adults vandalized K5 surveillance robot
+- Children were violent towards a robot in some context
+- Adults vandalized K5 surveillance robot
 
