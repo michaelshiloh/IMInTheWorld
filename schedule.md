@@ -83,10 +83,12 @@ transportation)
 ### Day 8. Wednesday June 8
 - **07:00-09:00**  Breakfast
 - **09:00** Bus departs dorms
-- **10:00-13:00** [*Design Museum Holon*](https://www.dmh.org.il/en/)
-- **13:00-14:00** Lunch on your own
-- **14:00-16:00** [*The Israeli Center for Digital
+- **10:00-12:30** [*Design Museum Holon*](https://www.dmh.org.il/en/)
+- **13:00-15:00** [*The Israeli Center for Digital
 Art*](http://www.digitalartlab.org.il/)
+- **15:00-16:00** Lunch on your own 
+- Alternately we could skip lunch and go back to dorms at **1500**
+- **16:00** Bus back to dorms
 
 ### Day 9. Thursday June 9 - Jerusalem
 - **07:00-09:00** Breakfast
