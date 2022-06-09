@@ -100,14 +100,16 @@ Art*](http://www.digitalartlab.org.il/)
 - **07:00-09:00** Breakfast
 - **09:00-13:00** Class
 - **10:00-12:00** Neighborhood Art Festival lecture
-- [*Gay Pride*](https://www.touristisrael.com/tel-aviv-gay-pride-parade/3809/)
-parade!
+- [*Pride Parade and other events*](https://www.touristisrael.com/tel-aviv-gay-pride-parade/3809/)
+occur today. Expect crowds, festivities, security, and possible street
+closures
 
 ### Day 11. Saturday June 11 - Galil
-- **07:00-07:30** Pick up packed breakfast
-- **07:30** Bus departs dorms +Omer and Ofer
-- **09:00-12:00** Hike
-- **15:00-18:00** [*Umm El Fahem Gallery*](https://www.ummelfahemgallery.com/)
+- **07:00-09:00** Breakfast
+- **08:30** Bus departs dorms +Omer and Ofer
+- **???????????** [*Umm El Fahem Gallery*](https://www.ummelfahemgallery.com/)
+- Picnic and relax at
+	[Sahne](https://en.parks.org.il/reserve-park/gan-hashlosha-sahne-national-park/)
 
 ### Day 12. Sunday June 12
 - **07:00-09:00** Breakfast
