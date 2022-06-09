@@ -95,7 +95,6 @@ Art*](http://www.digitalartlab.org.il/)
 - **8:30** Bus departs dorms 
 - **10:00-12:00** [*Museum on the Seam*](https://www.mots.org.il/)
 - **12:30-14:00** [*The Museum of Islamic Art*](https://www.islamicart.co.il/)
-- **14:00-17:00** [*The Israel Museum*](https://www.imj.org.il/)
 
 ### Day 10. Friday June 10 - legislative day
 - **07:00-09:00** Breakfast
