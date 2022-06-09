@@ -107,9 +107,18 @@ closures
 ### Day 11. Saturday June 11 
 - **07:00-09:00** Breakfast
 - **08:30** Bus departs dorms +Omer and Ofer
-- **???????????** [*Umm El Fahem Gallery*](https://www.ummelfahemgallery.com/)
-- Picnic and relax at
+- **10:00-12:00** [*Umm El Fahem Gallery*](https://www.ummelfahemgallery.com/)
+- **12:00-17:00** Picnic lunch and relax at
 	[Sahne](https://en.parks.org.il/reserve-park/gan-hashlosha-sahne-national-park/)
+- **18:00**			Arrival in Tel Aviv
+- Please bring the following:
+	- Towel
+	- Bathing suit
+	- Hat
+	- Sunscreen
+	- Water shoes
+	- Water
+	- Clothes to change into (or what you came in)
 
 ### Day 12. Sunday June 12
 - **07:00-09:00** Breakfast
