@@ -104,7 +104,7 @@ Art*](http://www.digitalartlab.org.il/)
 occur today. Expect crowds, festivities, security, and possible street
 closures
 
-### Day 11. Saturday June 11 - Galil
+### Day 11. Saturday June 11 
 - **07:00-09:00** Breakfast
 - **08:30** Bus departs dorms +Omer and Ofer
 - **???????????** [*Umm El Fahem Gallery*](https://www.ummelfahemgallery.com/)
