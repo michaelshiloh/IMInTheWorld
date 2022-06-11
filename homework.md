@@ -9,7 +9,7 @@ Things](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/Nor
 ### Due June 12
 
 1. Propose an artwork that uses technology in some way.
-This is not something you will make, so it may require 
+This is not something you will make, so you may propose
 skills that you don't possess, but it should seem reasonably 
 achievable with current technology (e.g. no perpetual motion or 
 faster-than-light space travel). 
@@ -35,7 +35,11 @@ Your assignment is to propose a solution, either using technology
 or not. You must justify your solution based on your understanding 
 of the behavior of this age group. 
 
-You will work in groups:
+You are encouraged to be very creative!
 
-Group A: Liza, Aadhar, Mbebo
-Group B: Daniel, Adit
+Your proposal might consist of pictures, sketches, or other media, and a
+written description of at least 1 page
+
+You will work in groups:
+- Group A: Liza, Aadhar, Mbebo
+- Group B: Daniel, Adit
