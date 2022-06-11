@@ -122,10 +122,22 @@ closures
 
 ### Day 12. Sunday June 12
 - **07:00-09:00** Breakfast
-- **10:00-11:00** Design Factory Shenkar (public transportation; 12 Anne Frank, Ramat Gan)
-- **14:00-16:00** [*Tikkun Olam Makers*](https://tomglobal.org/) (public transportation; 7 HaPelech, Tel Aviv)
-- **16:00-17:00** Galileo Special Effects (7 Simtat HaShach, Tel Aviv) (Mickey and Rafael)
-- **17:00-18:00** TAMI (Tel Aviv Makers International)
+- **10:30-12:30** Design Factory Shenkar 
+	- Transportation: find your own way
+	- Meet at entrance at 12 Anne Frank, Ramat Gan
+- **12:30-13:00** Lunch on your own around Shenkar. 
+	**Note that we have only 30 minutes so bringing sandwiches is encouraged**
+- **13:00** Taxis from Shenkar to Galileo
+- **13:30-14:30** Galileo Special Effects
+	- 7 Simtat HaShach, Tel Aviv
+	- Mickey and Rafael
+- **15:00-17:00** [*Tikkun Olam Makers*](https://tomglobal.org/) (public transportation; 7 HaPelech, Tel Aviv)
+- **18:00-19:00** TAMI (Tel Aviv Makers International)
+- Prepare for today:
+	- Bus card
+	- Wear long pants and closed shoes (rules for workshop)
+	- Notebook or other way to take notes
+	- Computer and kits are not required
 
 ### Day 13. Monday June 13
 - **07:00-09:00** Breakfast
