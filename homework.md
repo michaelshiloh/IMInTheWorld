@@ -6,7 +6,7 @@ in Don Norman's
 [The Psychopathology of Everyday
 Things](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/Norman-COGS1-ThePsychopathology-of-Everyday-Things.pdf)
 
-### Due June 12
+### Due June 13
 
 1. Propose an artwork that uses technology in some way.
 This is not something you will make, so you may propose
