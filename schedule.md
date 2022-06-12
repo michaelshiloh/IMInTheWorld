@@ -143,6 +143,11 @@ closures
 - **07:00-09:00** Breakfast
 - **08:30** Bus departs dorms 
 - **All day** Haifa with [*Valeria Geselev*](https://www.yallashoola.com/val)
+- Prepare for today:
+	- Bus card
+	- Shorts are fine
+	- Notebook or other way to take notes
+	- Computer and kits are not required
 
 ### Day 14. Tuesday June 14
 - **07:00-09:00** Breakfast
@@ -150,7 +155,8 @@ closures
 
 ### Day 15. Wednesday June 15
 - **07:00-09:00** Breakfast
-- **09:00-17:00** Class
+- All day at [Israel’s Human Computer Interaction conference](https://www.israhci.org/)
+
 
 ### Day 16. Thursday June 16 - last day
 - **07:00-09:00** Breakfast
