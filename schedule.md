@@ -151,7 +151,7 @@ closures
 
 ### Day 14. Tuesday June 14
 - **07:00-09:00** Breakfast
-- **09:00-17:00** Class
+- **10:00-17:00** Class
 
 ### Day 15. Wednesday June 15
 - **07:00-09:00** Breakfast
