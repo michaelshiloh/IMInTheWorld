@@ -40,6 +40,10 @@ You are encouraged to be very creative!
 Your proposal might consist of pictures, sketches, or other media, and a
 written description of at least 1 page
 
+Your proposal should be put on Github. You can make a repository for this
+class and then put the final project in a folder called "finalProject". Only
+one of you in each team needs to do this. Send me a link to your repository.
+
 You will work in groups:
 - Group A: Liza, Aadhar, Mbebo
 - Group B: Daniel, Adit
