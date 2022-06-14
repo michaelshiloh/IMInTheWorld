@@ -157,10 +157,13 @@ closures
 - **07:00-09:00** Breakfast
 - **07:30** Bus departs dorms 
 - All day at [Israel’s Human Computer Interaction conference](https://www.israhci.org/)
-	- Some of the most important conversations that you have at conferences
-		are not the official talks but the casual conversations you have during
-		breaks, meals, or while skipping talks. I encourage you not to sit
-		together, and to have conversations with other people.
+	- Some of the most important conversations at conferences
+		are not the official talks but the casual conversations you have 
+		with other people during breaks, meals, or while skipping talks. I
+		encourage you not to sit together and to have conversations with other
+		people.  Don't be afraid of meeting other people! Don't be afraid of
+		not knowing everything, you are students and are not expected to know it
+		all. 
 	- It's a long day of talks and you are not required to attend all of them. I
 		personally find conferences quite exhausting so don't be afraid to pace
 		yourself, pick the talks that you really want to attend, and allow
