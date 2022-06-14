@@ -155,7 +155,22 @@ closures
 
 ### Day 15. Wednesday June 15
 - **07:00-09:00** Breakfast
+- **07:30** Bus departs dorms 
 - All day at [Israel’s Human Computer Interaction conference](https://www.israhci.org/)
+	- Some of the most important conversations that you have at conferences
+		are not the official talks but the casual conversations you have during
+		breaks, meals, or while skipping talks. I encourage you not to sit
+		together, and to have conversations with other people.
+	- It's a long day of talks and you are not required to attend all of them. I
+		personally find conferences quite exhausting so don't be afraid to pace
+		yourself, pick the talks that you really want to attend, and allow
+		yourselves to take breaks.
+- Prepare for today:
+	- Make sure you have the confirmation email on your phones
+	- Student ID
+	- Shorts are fine
+	- Notebook or other way to take notes
+	- Computer and kits are not required
 
 
 ### Day 16. Thursday June 16 - last day

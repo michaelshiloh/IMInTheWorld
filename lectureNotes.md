@@ -396,3 +396,9 @@ Boston Dynamics videos aroused response against violence towards robots
 - Children were violent towards a robot in some context
 - Adults vandalized K5 surveillance robot
 
+
+### June 14
+#### Design
+
+- What places did we visit?
+- What are some of the design elements in each one?
