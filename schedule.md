@@ -178,7 +178,16 @@ closures
 
 ### Day 16. Thursday June 16 - last day
 - **07:00-09:00** Breakfast
-- **08:00** Bus departs dorms 
-- **Morning** [*Caesarea National Park*](https://en.parks.org.il/reserve-park/caesarea-national-park/)
-- **Afternoon** [*Jisr Az-Zarqa*](https://en.wikipedia.org/wiki/Jisr_az-Zarqa) 
+- **08:00** Bus departs dorms (with Dafna)
+- **09:00-12:00** [*Caesarea National Park*](https://en.parks.org.il/reserve-park/caesarea-national-park/) and aqueduct
+- **12:30** Meet Muhammad in Jisr az-Zarqa / Drop Dafna at a train station
+- **12:30** Lunch
+- **13:30-16:00** [*Jisr Az-Zarqa*](https://en.wikipedia.org/wiki/Jisr_az-Zarqa)
+- **17:00-19:30** relax 
 - **19:30** Closing Dinner (Benny HaDayag, Tel Aviv Port)
+- Prepare for today:
+	– We are travelling in the sun all day!!!
+	- Closed walking shoes 
+	- Hat
+	- water
+	- sunscreen 
