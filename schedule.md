@@ -156,7 +156,7 @@ closures
 ### Day 15. Wednesday June 15
 - **07:00-09:00** Breakfast
 - **07:30** Bus departs dorms 
-- All day at [Israel’s Human Computer Interaction conference](https://www.israhci.org/)
+- All day at [Israel’s Human Computer Interaction conference](https://www.israhci.org/) (Hecht museum at the main building)
 	- Some of the most important conversations at conferences
 		are not the official talks but the casual conversations you have 
 		with other people during breaks, meals, or while skipping talks. I
