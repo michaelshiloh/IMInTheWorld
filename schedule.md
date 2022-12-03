@@ -1,21 +1,3 @@
-## Addresses and phones:
-- Residence Hall (Dorms): 36 Bnei Dan Street, Tel Aviv
-- Academic Center: 17 Brandeis Street, Tel Aviv
-- Professor Michael WhatsApp: +1 914 768 3307 voice (urgent only) +972 055
-240 9068
-- Traveling to Shenkar by public transportation
-	- From Bnei Dan: 
-		- walk to Namir Road/Yehuda HaMaccabi; 
-		- take Bus 45 to Bialik/Tuval station; 
-		- walk to Shenkar
-	- From the Academic Center: 
-		- walk to Beit HaChayal (60 Weizmann St.); 
-		- take Bus 66 to Bialik/Tuval station; 
-		- walk to Shenkar
-- Traveling to South Tel Aviv from Shenkar by public transportation:
-	- Walk to 25 Abba Hillel Silver Rd., Ramat Gan; 
-	- take Bus 42 or 142 to
-
 ## Schedule (**Liable to change!**)
 
 ### Day 0. Tuesday May 31 -- arrival day
