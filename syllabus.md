@@ -230,7 +230,8 @@ output)
 	- Chapter 1 of The Design of Everyday Things, The Psychopathology of Everyday Things (reading)
 
 Day 3. Tuesday May 30
-- Activity: Group project at Moona (Assaff Brimer) http://www.moona.co/en
+- Activity: Group project at Moona (Assaff Brimer, Zvika Dinar) 
+	http://www.moona.co/en
 - Short assignment due:
 	- Physical Computing’s Greatest hits and misses (reading)
 
@@ -240,34 +241,39 @@ Joint project with students at Shenkar college of Art, Design, Engineering
 - Lecture: Arduino analog input and output, simple interactive system
 
 Day 5. Thursday June 1
-All day at Shenkar, with Shenkar students
-- Lecture: HCI 
-- Complete collaborative projects 
-- Present projects
-
-Day 6. Friday June 2 - no lessons
-- Bus to Jerusalem
-- Museum on the Seam (open 10am-2pm)
-- Tour of Jerusalem
-- Overnight in Jerusalem
-
-Day 7. Saturday June 3 – no lessons
-- Masada and Dead sea
-- Overnight in Jerusalem
-
-Day 8. Sunday June 4
-- Visits: 
+Jerusalem: 
+- Morning: One of the Jerusalem institutions:
+	- Museum on the Seam 
+	- Muslala
+	- Islamic Art Museum
 	- Bezalel College of Art (student sustainability union)
 	- Musrara School of Art
 	- Tech4Peace
 	- Hamifal (artist maker space in downtown Jerusalem)
 	- Boidem
-- Visit and lecture at the Jerusalem Science museum
-	- Designing interactive museum exhibits 
+	- Visit and lecture at the Jerusalem Science museum
+		- Possible project at the museum: designing interactive museum exhibits 
+- Lunch break (downtown Jaffa?)
+- Afternoon: Tour of Old City
+- Dinner (Old City)
+- Bus to Masada
+- Overnight Masada
+
+Day 6. Friday June 2 - no lessons
+- Masada
+- Dead Sea
 - Return to Tel Aviv
+
+Day 7. Saturday June 3 – no lessons
+- Possible make up day if contact hours are short
+
+Day 8. Sunday June 4
+All day at Shenkar, with Shenkar students
+- Lecture: HCI 
+- Complete collaborative projects 
+- Present projects
 - Short assignment due: 
 	- Readings on exhibit design (TBA)
-(Optional: Israel HCI conference)
 
 Day 9. Monday June 5
 - Visits: Community workshops and Assistive Technologies 
