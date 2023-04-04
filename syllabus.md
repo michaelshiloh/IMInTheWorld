@@ -215,14 +215,13 @@ concepts learned in the course.
 Day 1. Sunday May 28 – first day class
 - Lecture:
 	- Orientation
-	- Introduction to Entrepreneurship (Nir Tsuk)
 - Activities: Group warmup exercise and introduction to physical construction
 	(find things, build something)
 - Soldering workshop
+- Lecture: Introduction to Interactive Media, Introduction to Arduino (basic digital input and 
 
 Day 2. Monday May 29 
-- Activities: Visit artists (Liat Segal , Lior Zallmanson)
-- Lecture: Introduction to Interactive Media, Introduction to Arduino (basic digital input and 
+- Activities: Visit artists (Liat Segal , Lior Zallmanson, Tsila)
 output)
 - Short assignment due:
 	- Microcontrollers, the basics (reading)
@@ -266,6 +265,11 @@ Day 6. Friday June 2 - no lessons
 
 Day 7. Saturday June 3 – no lessons
 - Possible make up day if contact hours are short
+- Optional fun activity: 
+	- Archeological dig
+	- Hike in the Galilee
+	- Caesarea
+	- Haifa
 
 Day 8. Sunday June 4
 All day at Shenkar, with Shenkar students
@@ -276,22 +280,12 @@ All day at Shenkar, with Shenkar students
 	- Readings on exhibit design (TBA)
 
 Day 9. Monday June 5
-- Visits: Community workshops and Assistive Technologies 
-	- Tikun Olam Makers (TOM)
-	- Tel Aviv Makers International (TAMI)
-- Lecture and activity: Hands-on rapid prototyping with electronics workshop
-- Lecture: Discussion with Gaza Sky Geeks
+Day trip to J'lem, rest of J'lem activities
 
+Day 10. Tuesday June 6
 - Short assignment due: Simple interactive project using what we’ve learned
 	with Arduino: Using at least 3 switches and 3 LEDs, create a simple system
 	that does something unusual, surprising, or enchanting.
-
-Day 10. Tuesday June 6
-- Activity: Discussion: Evaluation and critique of group projects:
-	- Shenkar
-	- Moona
-	- Science Museum
-- Artist presentation
 - Final project introduced, teams formed
 
 Day 11. Wednesday June 7
@@ -311,10 +305,14 @@ Day 12. Thursday June 8
 	- Israel Center for Digital Art
 
 Day 13. Friday June 9 - no lessons
-- Hike in the Galilee
+- Activity: Discussion: Evaluation and critique of group projects:
+	- Shenkar
+	- Moona
+	- Science Museum
+- Artist presentation
 
 Day 14. Saturday June 10 - no lessons
-- Optional: Archeological dig
+- Optional fun activity 
 
 Day 15. Sunday June 11
 - Visit: Tel Aviv Museum of Art
@@ -322,8 +320,11 @@ Day 15. Sunday June 11
 - Activity: Rapidly prototype a museum exhibit
 
 Day 16. Monday June 12
-- Visit: Caesarea
-- Visit: Haifa
+- Visits: Community workshops and Assistive Technologies 
+	- Tikun Olam Makers (TOM)
+	- Tel Aviv Makers International (TAMI)
+- Lecture and activity: Hands-on rapid prototyping with electronics workshop
+- Lecture: Discussion with Gaza Sky Geeks
 
 Day 17. Tuesday June 13
 - Work on final projects
