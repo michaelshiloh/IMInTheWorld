@@ -218,11 +218,10 @@ Day 1. Sunday May 28 – first day class
 - Activities: Group warmup exercise and introduction to physical construction
 	(find things, build something)
 - Soldering workshop
-- Lecture: Introduction to Interactive Media, Introduction to Arduino (basic digital input and 
+- Lecture: Introduction to Interactive Media, Introduction to Arduino (basic digital input and output)
 
 Day 2. Monday May 29 
-- Activities: Visit artists (Liat Segal , Lior Zallmanson, Tsila)
-output)
+- Activities: Visit artists (Liat Segal , Lior Zallmanson, Tsila Hassine)
 - Short assignment due:
 	- Microcontrollers, the basics (reading)
 	- Digital Input & Output (reading)
@@ -289,8 +288,9 @@ Day 10. Tuesday June 6
 - Final project introduced, teams formed
 
 Day 11. Wednesday June 7
-- Artists visits: 
-	- Tsila Hassine
+- Visits: Different ways of making
+	- Tikun Olam Makers (TOM)
+	- Tel Aviv Makers International (TAMI)
 	- Special effects model makers (Mickey Martin, Rafael Mizrachi)
 - Short assignment due:
 	-  Proposal for final project, which is a group project. Your final project
@@ -320,9 +320,6 @@ Day 15. Sunday June 11
 - Activity: Rapidly prototype a museum exhibit
 
 Day 16. Monday June 12
-- Visits: Community workshops and Assistive Technologies 
-	- Tikun Olam Makers (TOM)
-	- Tel Aviv Makers International (TAMI)
 - Lecture and activity: Hands-on rapid prototyping with electronics workshop
 - Lecture: Discussion with Gaza Sky Geeks
 
