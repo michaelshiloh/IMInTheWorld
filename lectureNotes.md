@@ -24,6 +24,7 @@ Session: J-term June 2023
 
 **Everything here is subject to change due to health regulations, logistics, etc.**
 
+##### todays-lecture
 ## Monday May 29
 
 ### Processing
