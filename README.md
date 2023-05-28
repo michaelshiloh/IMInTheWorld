@@ -60,20 +60,33 @@ Tours](https://www.abrahamtours.com/))
 ##### North (Galilee)
 Tsfat and Galilee hike
 ### Day 9. Monday June 5
+##### Shenkar
+Shenkar is a college of art, technology, and engineering; we have access all
+day to a lab that is similar to the IM lab in Abu Dhabi
 ### Day 10. Tuesday June 6
+##### Shenkar
+Collaborative project with students at Shenkar
 ### Day 11. Wednesday June 7
 ##### Jerusalem
 - Hamiffal
+- Other places in Jerusalem TBA
 ### Day 12. Thursday June 8
 - Nahoum Guttman Museum
+- Other places TBA
 ### Day 13. Friday June 9
+##### Pride events
+Free day
 ### Day 14. Saturday June 10
+Free day
 ### Day 15. Sunday June 11
+TBA
 ### Day 16. Monday June 12
 ##### Jerusalem
 - Museum on the Seam
 - Mahne Yehuda
 - Bloomfield Science Museum
 ### Day 17. Tuesday June 13
+TBA
 ### Day 18. Wednesday June 14
 ##### Last day
+TBA
