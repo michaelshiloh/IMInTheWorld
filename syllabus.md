@@ -251,7 +251,7 @@ Jerusalem:
 	- Boidem
 	- Visit and lecture at the Jerusalem Science museum
 		- Possible project at the museum: designing interactive museum exhibits 
-- Lunch break (downtown Jaffa?)
+- Lunch break (downtown, then easy walk to Old City)
 - Afternoon: Tour of Old City
 - Dinner (Old City)
 - Bus to Masada
