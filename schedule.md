@@ -38,13 +38,18 @@ Session: J-term June 2023
 ### Day 2. Monday May 29
 Museum of the Jewish People
 ### Day 3. Tuesday May 30
-TBA
+9-12 lecture
+12-1 lunch
+1-4 lecture
 ### Day 4. Wednesday May 31
 ##### Holon
+- 9:30 am bus departs to Holon
 - Holon  Design Museum
 - Israel Center for Digital Art
+- 4pm bus departs Holon for return to dorms
 ### Day 5. Thursday June 1
 ##### Jerusalem
+- 8:00 am bus departs to Holon
 - Islamic Art Museum
 - Old City
 - Overnight at Masada
@@ -52,7 +57,7 @@ TBA
 ##### Masada
 - Masada hike
 - Dead Sea swim
-- Return to Tel Aviv
+- 3pm bus departs Dead Sea for return to dorms
 ### Day 7. Saturday June 3
 Free day: Optional tours (e.g. Bethlahem with [Abraham
 Tours](https://www.abrahamtours.com/)) 
@@ -69,7 +74,8 @@ Collaborative project with students at Shenkar
 ### Day 11. Wednesday June 7
 ##### Jerusalem
 - Hamiffal
-- Other places in Jerusalem TBA
+- Moona
+- Others TBA
 ### Day 12. Thursday June 8
 - Nahoum Guttman Museum
 - Other places TBA
