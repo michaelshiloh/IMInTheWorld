@@ -38,9 +38,9 @@ Session: J-term June 2023
 ### Day 2. Monday May 29
 Museum of the Jewish People
 ### Day 3. Tuesday May 30
-9-12 lecture
-12-1 lunch
-1-4 lecture
+- 9-12 lecture
+- 12-1 lunch
+- 1-4 lecture
 ### Day 4. Wednesday May 31
 ##### Holon
 - 9:30 am bus departs to Holon
