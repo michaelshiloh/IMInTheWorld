@@ -26,6 +26,312 @@ Session: J-term June 2023
 
 ##### todays-lecture
 ## Monday May 29
+### Introduction to Arduino
+
+- IDE
+- `blink`
+- What role does Arduino play?
+- Switches and other sensors
+- LEDs and other actuators
+- Inputs and outputs
+- Electricity
+- Circuits
+- Schematics
+- Series and Parallel
+
+Make sure everything is working
+
+- Upload the Blink example
+- Change the parameter in delay()
+- Upload again and verify that the LED blinks at the new rate
+
+#### Basic Arduino and Digital Output
+
+Upload File -> Examples -> Basic -> Blink example
+
+Let's extend this circuit to the breadboard:
+
+The most confusing part of this lecture will be the solderless breadboard:
+![](media/breadboard.jpg)
+Image courtesy of
+[SparkFun](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
+
+![](media/ArduinoControllingLED_schem.png)
+![](media/ArduinoControllingLED_bb.png)
+
+
+Review
+
+- Code
+- Circuit
+- Input and Output (I/O) pins
+	- 20 IO pins
+	- All 20 pins can do digital input and digital output
+	- Many of the pins have additional special functionality
+- Built-in LED
+	- On the Arduino Uno this LED is on pin 13
+	- On the Arduino Uno LED_BUILTIN = 13 
+
+#### Analogue Input
+
+Build this circuit. Try to follow the schematic and not the breadboard view:
+
+![](media/ArduinoPhotoresistor_schem.png)
+![](media/ArduinoPhotoresistor_bb.png)
+
+- Analogue Inputs, `analogRead()`, and (some) sensors go together
+	- This only works on the six analog input pins (A0-A5)
+	- Digital sensors, like a switch, have only one of two values 
+	and so are more suited to a digital input
+- Remember that the so-called analog input pins can do digital input and
+	output as well
+- Since you have so few analog input pins, when you decide which pins to use
+	for which device, reserve the analog input pins for analog input devices
+	as much as possible
+
+#### Analogue Output
+
+- Analogue Outputs, `analogWrite()`, PWM and (some) actuators go together
+	- `analogWrite()` only works on the six PWM pins (3, 5, 6, 9, 10, and 11).
+	- LEDs, motors, and some other actuators respond properly to PWM
+	- Other actuators, like a solenoid, do not respond well to PWM and really
+		should be considered digital actuators
+	- Since you have so few analog outputs, when you decide which pins to use
+		for which device, reserve the analog output pins for analog output devices
+		as much as possible
+
+- Not true analog voltage. PWM = Pulse Width Modulation
+- Works for LEDs and motors
+
+#### Functions that you know from p5.js which are useful here:
+- `map()`
+- `constrain()`
+- `if()`
+
+Remember how we used `print()` in p5.js to help us find problems in our 
+program? You can do that in Arduino to but the function has a slightly
+different name: `Serial.println()`
+- Must be initialized `Serial.begin()`
+- Can not concatenate strings with the `+` function
+	- Instead, you need multiple calls to `Serial.print()` e.g.:
+
+````
+Serial.print("First value = ");
+Serial.print(firstValue);
+Serial.print(" Second value = ");
+Serial.print(secondValue);
+Serial.println();
+````
+
+Example using an analog input to control the brightness of an LED
+
+````
+const int LED_PIN = 3;           // the PWM pin the LED is attached to
+const int POT_PIN = A2;
+int brightness = 0;    // how bright the LED is
+
+// the setup routine runs once when you press reset:
+void setup() {
+  // declare pin 9 to be an output:
+  pinMode(LED_PIN, OUTPUT);
+  Serial.begin(9600);
+}
+
+// the loop routine runs over and over again forever:
+void loop() {
+  int pot_value = analogRead(POT_PIN); // 0-1023
+  brightness = map(pot_value, 0, 1023, 255, 0);
+  Serial.println(brightness);
+  analogWrite(LED_PIN, brightness); // 0-255
+}
+````
+#### Digital Input
+
+Adding a switch
+
+![](media/ArduinoLEDMomentarySwitch_schem.png)
+![](media/ArduinoLEDMomentarySwitch_bb.png)
+
+````
+void setup() {
+  pinMode(8, OUTPUT);
+  pinMode(13, OUTPUT);
+  pinMode(A2, INPUT);
+}
+
+void loop() {
+
+  int switchPosition = digitalRead(A2);
+
+  if (switchPosition == HIGH) {
+    digitalWrite(8, HIGH);   // turn the LED on (HIGH is the voltage level)
+    digitalWrite(13, LOW);
+  } else  {
+    digitalWrite(8, LOW);    // turn the LED off by making the voltage LOW
+    digitalWrite(13, HIGH);
+  }
+}
+````
+
+An example:
+
+````
+
+const int pushButton = A2;
+const int redLEDPin = A0;
+const int greenLEDPin = 8;
+
+void setup() {
+  pinMode(redLEDPin, OUTPUT);
+  pinMode(greenLEDPin, OUTPUT);
+}
+
+void loop() {
+
+  int buttonState = digitalRead(pushButton);
+
+  if (buttonState == HIGH) {
+    digitalWrite(redLEDPin, HIGH);
+    digitalWrite(greenLEDPin, HIGH);
+    delay(500);
+    digitalWrite(greenLEDPin, LOW);
+    delay(300);
+    digitalWrite(redLEDPin, LOW);
+    digitalWrite(greenLEDPin, HIGH);
+    delay(700);
+  }
+  allOff();
+  delay(1000);
+}
+
+void allOff() {
+  digitalWrite(redLEDPin, LOW);
+  digitalWrite(greenLEDPin, LOW);
+}
+````
+
+Other things you can do:
+
+Add another LED on a different pin
+
+![](media/ArduinoTwoLEDs_schem.png)
+![](media/ArduinoTwoLEDs_bb.png)
+
+Add another switch on a different pin
+
+![](media/ArduinoTwoSwitches_schem.png)
+![](media/ArduinoTwoSwitches_bb.png)
+
+#### In-class exercise
+
+Now write a program that will blink different patterns depending on which
+switch is pressed. 
+Using two switches you can select between four patterns.
+How is that possible?
+
+Do you see a similarity between this circuit and 
+something we learned earlier?
+
+Some analogue sensors are resistive, some are not. 
+Resistive sensors all use the same
+pattern: a voltage divider.
+Note the similarity to the circuit we used for a switch.
+The switch circuit is also effectively a voltage divider, one that has only
+two values instead of an infinite range of values
+
+What other sensors do we have in the kit?
+
+Which ones are resistive?
+
+#### Potentiometer
+
+[Here](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/circuit-1b-potentiometer)
+
+#### Misc
+- Hand drawn schematics in your homework are fine!
+Here is an example:
+
+![](media/handDrawnSchematicExample.jpg)
+
+- Hand drawn switches can use the simple symbol
+- Resources are available to help you with homework (me, Jack), but only
+	if you start your homework early enough. If you wait until the last minute
+	and then don't have time to get help, that is unexcusable.
+- Use constants for pin numbers
+
+#### In-class exercise
+
+1. Use one of the analogue sensors to select which of two LEDs lights up
+1. Use one of the analogue sensor to control how fast two LEDs alternate
+1. Use a momentary switch (often called a *pushbutton* or a *button* in the
+	 Arduino literature) to select a different range for mapping an analog
+	 sensor to an analog output device
+1. Use a potentiometer to select from 4 different behaviors of a circuit
+1. Use a momentary switch to enter a mode where the minimum and maximum values
+	from the LDR are stored. When the switch is released, use those values to
+	map the range of values from the LDR to the full range of the LED brightness
+
+#### Sound
+
+**`tone()`**
+
+- [Schematic](https://www.arduino.cc/en/Tutorial/ToneMelody)
+- Before you try that code, just try 
+`tone(spkrPin, 440);`
+and
+`tone(spkrPin, 440, 1000);`
+- [Reference
+page](https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/)
+
+**Notes**
+- "Use of the `tone()` function will interfere with PWM output on pins 3 and 11"
+	- The word "intefere" is rather vague. 
+	I think they mean that it 
+	prevents `analogWrite()` from working on pins 3 and 11
+- The `tone()` function is *non-blocking*
+- Arduino supports tabs 
+- Arduino has arrays 
+- What is resistor for? 
+	- LED needs a resistor to limit current so it doesn't burn out
+	- LDR needs a resistor to form a voltage divider
+	- Piezo buzzer neither burns out nor needs a voltage divider
+	- So why a resistor?
+
+#### Servo motor
+
+- [Schematic](https://www.arduino.cc/en/Tutorial/Knob)
+- [Reference
+page](https://www.arduino.cc/en/Reference/Servo)
+
+
+**Notes**
+- Use of the servo library disables `analogWrite()` (PWM) on pins 9 and 10
+- The `Servo.write()` function is *non-blocking*
+
+#### More about PWM
+- How do you suppose `analogWrite()` makes an LED dimmer?
+- [PWM](https://www.ekwb.com/blog/what-is-pwm-and-how-does-it-work/)
+- What do `analogWrite()`, `tone()` and `Servo` have in common?
+- What is sound?
+- How does a servo motor
+	[work](https://lastminuteengineers.com/servo-motor-arduino-tutorial/)?
+
+**Notes**
+1. You may have noticed that the built-in LED blinks 3 times when you turn on
+	 your Arduino. In fact it does this every time it resets, which also happens
+	 when you upload a new program. Since this LED is connected directly to pin
+	 13, it means that whatever you have attached to pin 13 will be activated 3
+	 times briefly whenver the Arduino resets. So, if you make a big robot, 
+	 you probably should not use pin 13 for the motor
+1. Pins 0 and 1 are used for communication with your laptop, and this has two
+	 effects:
+	1. Connecting anything to pins 0 or 1 might interfere with laptop
+		 communication (which includes uploading!)
+	2. Anything connected to pins 0 or 1 might be activated during
+		 communication!
+1. For these reasons it is best to avoid pins 0, 1, and 13. If you run out of
+	 pins and need to use them there are ways around this.
+
 
 ### Processing
 
