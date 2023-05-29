@@ -63,7 +63,8 @@ Free day: Optional tours (e.g. Bethlahem with [Abraham
 Tours](https://www.abrahamtours.com/)) 
 ### Day 8. Sunday June 4
 ##### North (Galilee)
-Tsfat and Galilee hike
+[Tsfat](https://en.wikipedia.org/wiki/Safed) and
+[Galilee](https://en.wikipedia.org/wiki/Galilee) hike
 ### Day 9. Monday June 5
 ##### Shenkar
 Shenkar is a college of art, technology, and engineering; we have access all
