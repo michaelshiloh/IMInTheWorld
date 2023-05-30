@@ -44,7 +44,9 @@ Museum of the Jewish People
 ### Day 4. Wednesday May 31
 ##### Holon
 - 9:30 am bus departs to Holon
-- Holon  Design Museum
+- 11:00 - 13:00 Holon  Design Museum
+- 13:00 - 14:15 Lunch on your own
+- 14:15	Meet back at the bus
 - Israel Center for Digital Art
 - 4pm bus departs Holon for return to dorms
 ### Day 5. Thursday June 1
