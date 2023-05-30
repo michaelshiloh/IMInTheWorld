@@ -49,15 +49,33 @@ Museum of the Jewish People
 - 4pm bus departs Holon for return to dorms
 ### Day 5. Thursday June 1
 ##### Jerusalem
-- 8:00 am bus departs to Holon
-- Islamic Art Museum
-- Old City
-- Overnight at Masada
+###### Packing list
+- Snacks for the day
+- Comfortable closed walking shoes for the hike
+- Comfortable Clothes
+- Bathing Suit and towel
+- Water shoes for the dead sea
+- WATER - 1 big bottle of water!
+- Hat
+- Sunscreen
+- Sunglasses
+- Money for personal expenses
+###### Schedule
+- 12:45 PM Depart from Bnei Dan residence hall
+- 1:45 PM Jerusalem old City tour with Lunch
+- 6:00 PM Dinner
+- 7:00 PM Musrara-mix fest - an international multidisciplinary event – New media, technology and art.
+- 9:00 PM Depart to Masada
+- 10:30 PM Check-in at Masada Hostel
 ### Day 6. Friday June 2
 ##### Masada
-- Masada hike
-- Dead Sea swim
-- 3pm bus departs Dead Sea for return to dorms
+###### Schedule
+- 7:00 AM Breakfast and Check-out
+- 7:45 AM Climb Masada national park
+- 11:00 AM Travel to the Dead Sea
+- 11:30 AM Enjoy swimming at the Dead Sea and lunch on your own.
+- 1:45 PM Depart to Tel Aviv
+- 4:00 PM Arrive in Tel Aviv
 ### Day 7. Saturday June 3
 Free day: Optional tours (e.g. Bethlahem with [Abraham
 Tours](https://www.abrahamtours.com/)) 
