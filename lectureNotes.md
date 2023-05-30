@@ -76,8 +76,10 @@ Review
 
 Build this circuit. Try to follow the schematic and not the breadboard view:
 
-![](media/ArduinoPhotoresistor_schem.png)
-![](media/ArduinoPhotoresistor_bb.png)
+
+
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoPhotoresistor_schem.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoPhotoresistor_bb.png)
 
 - Analogue Inputs, `analogRead()`, and (some) sensors go together
 	- This only works on the six analog input pins (A0-A5)
@@ -149,8 +151,8 @@ void loop() {
 
 Adding a switch
 
-![](media/ArduinoLEDMomentarySwitch_schem.png)
-![](media/ArduinoLEDMomentarySwitch_bb.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoLEDMomentarySwitch_schem.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoLEDMomentarySwitch_bb.png)
 
 ````
 void setup() {
@@ -214,13 +216,13 @@ Other things you can do:
 
 Add another LED on a different pin
 
-![](media/ArduinoTwoLEDs_schem.png)
-![](media/ArduinoTwoLEDs_bb.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoTwoLEDs_schem.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoTwoLEDs_bb.png)
 
 Add another switch on a different pin
 
-![](media/ArduinoTwoSwitches_schem.png)
-![](media/ArduinoTwoSwitches_bb.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoTwoSwitches_schem.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoTwoSwitches_bb.png)
 
 #### In-class exercise
 
@@ -251,7 +253,7 @@ Which ones are resistive?
 - Hand drawn schematics in your homework are fine!
 Here is an example:
 
-![](media/handDrawnSchematicExample.jpg)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/handDrawnSchematicExample.jpg)
 
 - Hand drawn switches can use the simple symbol
 - Resources are available to help you with homework (me, Jack), but only
@@ -903,7 +905,7 @@ while (1) {
 	- Your Arduino is (1) much slower and (2) has a very small buffer
 - Handshaking to the rescue!
 
-![](media/serialCommsSchematic.jpg)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/serialCommsSchematic.jpg)
 
 [Code](https://github.com/aaronsherwood/introduction_interactive_media/blob/master/arduinoExamples/serialExamples/buildOffThisOne/buildOffThisOne.ino)
 
