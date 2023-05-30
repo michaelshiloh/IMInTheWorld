@@ -26,7 +26,7 @@ Session: J-term June 2023
 
 ## Homework (**Liable to change!**)
 
-#### Homework due June 1
+#### Homework due May 31
 - Read [Chapter 1 of The Design of Everyday Things, The Psychopathology of Everyday Things](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003885337&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,don%20norman&sortby=date&facet=frbrgroupid,include,1146692088&mode=basic&offset=0)
 - Read [Emotion and Design: Attractive Things Work
   better](https://dl.acm.org/doi/pdf/10.1145/543434.543435)
