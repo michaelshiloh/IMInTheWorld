@@ -63,7 +63,7 @@ Museum of the Jewish People
 - Sunglasses
 - Money for personal expenses
 ###### Schedule
-- 9am - 11am lecture 
+- 9am - 11:30am lecture 
 - 12:45 PM Depart from Bnei Dan residence hall
 - 1:45 PM Jerusalem old City tour with Lunch
 - 6:00 PM Dinner
