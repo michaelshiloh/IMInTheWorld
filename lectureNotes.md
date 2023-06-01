@@ -911,6 +911,10 @@ while (1) {
 
 ##### In-class exercise! Yay!
 
+Circuit for the exercise:
+
+![](media/breadboardLayoutCommunication.jpg)
+
 Break into groups and, referring to the given code and circuit
 do the following, always using handshaking:
 
