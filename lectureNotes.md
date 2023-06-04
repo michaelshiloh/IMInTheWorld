@@ -951,7 +951,8 @@ Pick up kits and tools from NYUTA Academic Center
 - 1400 - Continue working on your robot
 
 5 June Monday 
-- 1000 - Meet at Shenkar lab. Transportation: bus or walk
+- 1000 - Meet at Shenkar lab. Transportation: [bus or
+  walk](https://www.google.com/maps/dir/NYU+Tel+Aviv+Academic+Center,+Brandeis+Street,+Tel+Aviv-Yafo/%D7%A9%D7%A0%D7%A7%D7%A8+%D7%94%D7%A0%D7%93%D7%A1%D7%94.+%D7%A2%D7%99%D7%A6%D7%95%D7%91.+%D7%90%D7%9E%D7%A0%D7%95%D7%AA+(%D7%97%D7%9C%22%D7%A6),+Anne+Frank+St+12,+Ramat+Gan%E2%80%AD/@32.0918734,34.7900139,16z/am=t/data=!4m14!4m13!1m5!1m1!1s0x151d4bedc7b90bb3:0xc5a5f31e696d106a!2m2!1d34.7870563!2d32.0930719!1m5!1m1!1s0x151d4bb88d50907d:0x3f8dd5bea6caf4fb!2m2!1d34.8035691!2d32.0900601!3e3?entry=ttu)
 We may start later depending on how much is left to do
 - 1200 - Lunch break (tentative)
 - 1300 - Lecture by Michal Rinott about Human Computer Interaction
