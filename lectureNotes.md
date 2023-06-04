@@ -24,7 +24,6 @@ Session: J-term June 2023
 
 **Everything here is subject to change due to health regulations, logistics, etc.**
 
-##### todays-lecture
 ## Monday May 29
 ### Introduction to Arduino
 
@@ -926,3 +925,34 @@ nothing on Arduino is controlled by Processing
 and make it so every time the ball bounces one led lights up and then turns
 off, and you can control the wind from one analog sensor
 
+## Monday June 5
+##### todays-lecture
+### Introduction to Human Computer Interface
+Today we start a two day program in collaboration with students at Shenkar
+College of Art, Design, and Engineering. These students are in an 
+interdisciplinary course and this week are learning about Human Computer
+Design.
+
+##### Schedule
+5 June Monday 
+- 0900 - Meet in our classroom at the NYUTA Academic Center. 
+Bring your laptop and bus (Rav Kav) card, and your kit if it's at the dorms. 
+Pick up kits and tools from NYUTA Academic Center
+- 0910 - Public transportation to Shenkar 
+(bus 66 from Bet Hachayal/Weizmann to Bialik/Tuval station)
+- 0930 - Arduino Motor Control
+- 1030 - Introduction to rapid prototyping and construction 
+  techniques
+- 1130 - Introduction to project: Build a robot that can express
+  itself through movement (and optionally sound) and can accept input in some
+  way
+- 1200 - Start working on your robot
+- 1300 - lunch break
+- 1400 - Continue working on your robot
+
+5 June Monday 
+- 1000 - Meet at Shenkar lab. Transportation: bus or walk
+We may start later depending on how much is left to do
+- 1200 - Lunch break (tentative)
+- 1300 - Lecture by Michal Rinott about Human Computer Interaction
+- 1730 - Collaboration with Michal's students
