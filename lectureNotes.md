@@ -997,7 +997,6 @@ void loop(){}
 ```
 
 ## 6 June Tuesday
-##### todays-lecture
 
 We accomplished a lot on Monday and we will be here until almost 8pm 
 on Tuesday, so to avoid having too long a day 
@@ -1011,3 +1010,15 @@ we can start relatively late:
 - 1300 - Lecture by Michal Rinott about Human Computer Interaction
 - 1500 - (Professor Michael has a meeting)
 - 1730 - 19:30 - Collaboration with Michal's students
+
+## 7 June Wednesday
+##### todays-lecture
+
+- 9:00	Bus departs Bnei Dan 36 to Kfar Qassem
+- 10:00-12:00	Meeting with Moona
+- 12:00	Bus returns to Bnei Dan 36
+
+Afternoon is free to work on your artist presentations. I will provide details
+on this shortly.
+
+
