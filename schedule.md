@@ -90,22 +90,54 @@ Tours](https://www.abrahamtours.com/))
 ##### Shenkar
 Shenkar is a college of art, technology, and engineering; we have access all
 day to a lab that is similar to the IM lab in Abu Dhabi
-### Day 10. Tuesday June 6
+- 0900 - Meet in our classroom at the NYUTA Academic Center. 
+Bring your laptop and bus (Rav Kav) card, and your kit if it's at the dorms. 
+Pick up remaining kits and tools from NYUTA Academic Center
+- 0910 - Public transportation to Shenkar 
+(bus 66 from Bet Hachayal/Weizmann to Bialik/Tuval station)
+- 0930 - Arduino Motor Control
+- 1030 - Introduction to rapid prototyping and construction 
+  techniques
+- 1130 - Introduction to project: Build a robot that can express
+  itself through movement (and optionally sound) and can accept input in some
+  way
+- 1200 - Start working on your robot
+- 1300 - lunch break
+- 1400 - Continue working on your robot. We may stay late to avoid an early
+  start tomorrow morning.
+### Day 10. 6 June Tuesday
 ##### Shenkar
 Collaborative project with students at Shenkar
-### Day 11. Wednesday June 7
-##### Jerusalem
-- Hamiffal
-- Moona
-- Others TBA
-### Day 12. Thursday June 8
-- Nahoum Guttman Museum
-- Other places TBA
+
+- 1000 - Meet at the Bet Hachayal/Weizmann bus station for bus number 66. [bus 
+  route](https://www.google.com/maps/dir/NYU+Tel+Aviv+Academic+Center,+Brandeis+Street,+Tel+Aviv-Yafo/%D7%A9%D7%A0%D7%A7%D7%A8+%D7%94%D7%A0%D7%93%D7%A1%D7%94.+%D7%A2%D7%99%D7%A6%D7%95%D7%91.+%D7%90%D7%9E%D7%A0%D7%95%D7%AA+(%D7%97%D7%9C%22%D7%A6),+Anne+Frank+St+12,+Ramat+Gan%E2%80%AD/@32.0918734,34.7900139,16z/am=t/data=!4m14!4m13!1m5!1m1!1s0x151d4bedc7b90bb3:0xc5a5f31e696d106a!2m2!1d34.7870563!2d32.0930719!1m5!1m1!1s0x151d4bb88d50907d:0x3f8dd5bea6caf4fb!2m2!1d34.8035691!2d32.0900601!3e3?entry=ttu).
+  You are welcome to find your own way to Shenkar if you wish but please let
+  me know on the WhatsApp group.
+- 1200 - Lunch break (tentative)
+- 1300 - Lecture by Michal Rinott about Human Computer Interaction
+- 1500 - (Professor Michael has a meeting)
+- 1730 - 19:30 - Collaboration with Michal's students
+
+## 7 June Wednesday
+
+- 9:00	Bus departs Bnei Dan 36 to Kfar Qassem
+- 10:00-12:00	Meeting with Moona
+- 12:00	Bus returns to Bnei Dan 36
+
+Afternoon is free to work on your artist presentations. I will provide details
+on this shortly.
+
+## 8 June Thursday
+- 11:00	Bus to Nahoum Guttman Museum			
+- 11:30-13:00Nahoum Guttman Museum (Shim'on Rokah St 21, Tel Aviv-Yafo)	
+- 13:00-14:00 Walk to TAMI (and lunch on your own)			
+- 14:00-16:00 TAMI hackspace (Shoken St 19, Tel Aviv-Yafo)			
+- 16:00	Bus to Bnei Dan			
 ### Day 13. Friday June 9
 ##### Pride events
-Free day
+Free day (weekend)
 ### Day 14. Saturday June 10
-Free day
+Free day (weekend)
 ### Day 15. Sunday June 11
 TBA
 ### Day 16. Monday June 12
