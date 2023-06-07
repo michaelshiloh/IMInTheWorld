@@ -45,6 +45,10 @@ and
 [here](https://github.com/michaelshiloh/resourcesForClasses#inspiration-artists-movies-projects-etc), 
 and of course Google (and maybe ChatGPT) will also be helpful.
 
+Let me know by the end of today (Wednesday) which artist you choose. Each of
+you must select a different artist, so if you wait too long you might find
+that your first choice is already taken.
+
 Your presentation should be about 10 minutes long and should include:
 - Four or 5 different works, including still photographs and/or videos
 - The artist's inspiration, concept, motivation, philosophy - whatever they
