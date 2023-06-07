@@ -35,3 +35,24 @@ Session: J-term June 2023
 - Read about [Arduno analog
   input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
 
+#### Homework due Sunday June 11
+
+Prepare a presentation on an artist of your choice that you think relates to
+Interactive Media. Knowing that this is a very broad subject, you are free to
+define Interactive Media as you wish. You may find some examples 
+[here](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/lectureNotes.md#whats-the-class-about)
+and
+[here](https://github.com/michaelshiloh/resourcesForClasses#inspiration-artists-movies-projects-etc), 
+and of course Google (and maybe ChatGPT) will also be helpful.
+
+Your presentation should be about 10 minutes long and should include:
+- Four or 5 different works, including still photographs and/or videos
+- The artist's inspiration, concept, motivation, philosophy - whatever they
+  call it: Why do they do what they do, how do they see its place in the world
+  of art, what are they trying to say, what are they celebrating or
+  protesting, etc.
+- The materials, technology, tools, and skills the artists use, if possible.
+  Some artists are secretive about this, other are not
+- Do the artists collaborate or work alone?
+- Artist's background
+- Whatever else you find interesting
