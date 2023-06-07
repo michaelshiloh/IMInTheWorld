@@ -1,0 +1,12 @@
+- SIK for Arduino
+- Good quality scissors e.g. https://www.amazon.com/Fiskars-12-94518697WJ-Original-Handled-Scissors/dp/B00006IFN9/ (3 pairs)
+- Decent quality needle nose pliers e.g. https://www.amazon.com/Needle-Pliers-Comfort-Handles-Handmade/dp/B07WZQN54C/ref=sr_1_6 (1 set of two items)
+- High quality wire cutters and strippers e.g. https://www.amazon.com/Klein-Tools-Stripper-Stranded-Hakko-CHP-170/dp/B0BXKBQB3V/ (1 set of two items)
+- Linesman pliers e.g. https://www.amazon.com/Performance-Tool-20230-Linesman-Pliers/dp/B08NRGV2X1/ (1)
+- 1 or 2 small screwdriver sets e.g. https://www.amazon.com/Precision-Screwdriver-Electronics-Repairing-Eyeglasses/dp/B0BQFG32DV/
+- Temperature controlled soldering iron.
+- AA batteries (4 per student)
+- Hot glue gun
+- Extra hot glue sticks
+- Wire assortment (stranded and solid)
+- Alcohol
