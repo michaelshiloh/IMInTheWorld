@@ -121,14 +121,14 @@ Collaborative project with students at Shenkar
 ## 7 June Wednesday
 
 - 9:00	Bus departs Bnei Dan 36 to Kfar Qassem
-- 10:00-12:00	Meeting with Moona
+- 10:00-12:00 Meeting with Moona
 - 12:00	Bus returns to Bnei Dan 36
 
 Afternoon is free to work on your artist presentations. I will provide details
 on this shortly.
 
 ## 8 June Thursday
-- 11:00	Bus to Nahoum Guttman Museum			
+- 11:00	Bus from the dorms to Nahoum Guttman Museum			
 - 11:30-13:00 Nahoum Guttman Museum (Shim'on Rokah St 21, Tel Aviv-Yafo)	
 - 13:00-14:00 Walk to TAMI (and lunch on your own)			
 - 14:00-16:00 TAMI hackspace (Shoken St 19, Tel Aviv-Yafo)			
