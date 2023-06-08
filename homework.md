@@ -72,10 +72,10 @@ and
 - You have witnessed many forms of interface designs at museums and galleries,
   in airports, buses, and restaurants; on websites, phones, and cash machines.
   Your final project is to design an interface for a new service (which you
-  invent). Your interface must be at the same time both intuitive and novel,
-  functional, and aesthetically appealing. For those of you who can program I
-  want to see a mock-up of this interface in Processing. For those of you for
-  whom this class was your first exposure to programming, a drawing is
-  sufficient. 
+  invent). Your interface should strive to be at the same time intuitive and
+  novel, functional, and aesthetically pleasing. For those of you who can
+  program I want to see a mock-up of this interface in Processing. For those
+  of you for whom this class was your first exposure to programming, a drawing
+  (hand or computer) is sufficient. 
 - Create a brief presentation describing your service, your interface, and why
   you made the choices that you did. 
