@@ -129,7 +129,7 @@ on this shortly.
 
 ## 8 June Thursday
 - 11:00	Bus to Nahoum Guttman Museum			
-- 11:30-13:00Nahoum Guttman Museum (Shim'on Rokah St 21, Tel Aviv-Yafo)	
+- 11:30-13:00 Nahoum Guttman Museum (Shim'on Rokah St 21, Tel Aviv-Yafo)	
 - 13:00-14:00 Walk to TAMI (and lunch on your own)			
 - 14:00-16:00 TAMI hackspace (Shoken St 19, Tel Aviv-Yafo)			
 - 16:00	Bus to Bnei Dan			
@@ -139,14 +139,23 @@ Free day (weekend)
 ### Day 14. Saturday June 10
 Free day (weekend)
 ### Day 15. Sunday June 11
-TBA
+- 09:00 - Artist presentations
+- 16:00	Bus departs 17 Brandeis Street to Oren the artist
+- 16:30-18:30 Oren (Natan Excelrod 5, bet sefer aviv)
 ### Day 16. Monday June 12
 ##### Jerusalem
-- Museum on the Seam
-- Mahne Yehuda
-- Bloomfield Science Museum
+- 08:30	Bus departs Bnei Dan 36 for Jerusalem
+- 10:00-11:30	Museum on the Seam
+- 12:00	Bus to Hamiffal (lunch on your own)
+- 13:30-15:00	Hamiffal ( המערבים ,3 ירושלים)
+- 15:00	Bus to Bloomfield Science Museum
+- 15:30-18:30	Bloomfield Science Museum
+- 18:30	Bus returns to Tel Aviv
 ### Day 17. Tuesday June 13
-TBA
+- 09:00 - Finish artist presentations; discuss readings
+- 12:30	Bus departs 17 Brandeis Street to Ramat Chayal
+- 13:00	Visit Airwayz, HaNehoshet Street 3, Tel Aviv
+- 15:00	Bus returns to 36 Bnei Dan Street
 ### Day 18. Wednesday June 14
 ##### Last day
-TBA
+Final project presentations

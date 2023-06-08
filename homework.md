@@ -60,3 +60,22 @@ Your presentation should be about 10 minutes long and should include:
 - Do the artists collaborate or work alone?
 - Artist's background
 - Whatever else you find interesting
+
+#### Final project due Wednesday June 14
+
+- Read 
+[A Brief Rant on the Future of Interaction
+Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
+and
+[A follow-up
+    article](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/responses.html)
+- You have witnessed many forms of interface designs at museums and galleries,
+  in airports, buses, and restaurants; on websites, phones, and cash machines.
+  Your final project is to design an interface for a new service (which you
+  invent). Your interface must be at the same time both intuitive and novel,
+  functional, and aesthetically appealing. For those of you who can program I
+  want to see a mock-up of this interface in Processing. For those of you for
+  whom this class was your first exposure to programming, a drawing is
+  sufficient. 
+- Create a brief presentation describing your service, your interface, and why
+  you made the choices that you did. 
