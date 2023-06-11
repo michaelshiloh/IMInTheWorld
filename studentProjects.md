@@ -32,4 +32,5 @@ Session: J-term June 2023
 - Claudio [Yuri
  Vishnevsky](https://docs.google.com/presentation/d/1irQ6QLfE5Xie-Z8EVAMAWGLh92UXyODt_oHjaCBNll0/edit#slide=id.p)
 - Soomi [Nam June Paik](https://docs.google.com/presentation/d/1DSTFNzgLWF7KJa1HpUS6oafpZIjLZvEU/edit#slide=id.p1)
-- Yunho
+- Yunho [Sol
+  Lewitt](https://docs.google.com/presentation/d/1ZWNAQNP5nqHjtc_TTo0STbRDum7LC2djrMNyYhH0EqA/edit?usp=sharing)
