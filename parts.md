@@ -10,3 +10,7 @@
 - Extra hot glue sticks
 - Wire assortment (stranded and solid)
 - Alcohol
+- USB-C adapters to USB-A
+- USB-C adapters to HDMI
+- HDMI extender
+- 
