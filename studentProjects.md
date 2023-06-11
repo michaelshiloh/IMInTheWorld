@@ -31,3 +31,10 @@ Session: J-term June 2023
     McCurry](https://nyu0-my.sharepoint.com/:p:/g/personal/ys5171_nyu_edu/Eb4RLCj0kGVMkTloPeoy7dcBlzJxjTzMg8RWui89A9mSuA?e=qNFWFM)
   - Speculative Interface [UIs for Left-handed
     Users](https://nyu0-my.sharepoint.com/:p:/g/personal/ys5171_nyu_edu/EZzY9Flk9gBHo0LrvsK4CRsBru56aKz0IzSdxR-KDPHP_g?e=mtKKZG)
+- Felipe [Sebastião Salgado](https://www.canva.com/design/DAFlQpLHLFU/bxt482U6cICAJsXec_yvMQ/edit?utm_content=DAFlQpLHLFU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Yupu
+  [](https://www.canva.com/design/DAFlJ1pLhAI/9qsjCD-NSf5-lsA8zvZoFQ/edit?utm_content=DAFlJ1pLhAI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Emmanuel [](studentProjects/IM_Presentation_Emmanuel.pptx)
+- Maggie [](studentProjects/MaggieLi_SunYuanandPengYu.pptx)
+- Claudio [Yuri
+ Vishnevsky](https://docs.google.com/presentation/d/1irQ6QLfE5Xie-Z8EVAMAWGLh92UXyODt_oHjaCBNll0/edit#slide=id.p)
