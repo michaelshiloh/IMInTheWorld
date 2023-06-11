@@ -134,7 +134,8 @@ Free day (weekend)
 ### Day 15. Sunday June 11
 - 09:00 - Artist presentations
 - 16:00	Bus departs 17 Brandeis Street to Oren the artist
-- 16:30-18:30 Oren (Natan Excelrod 5, bet sefer aviv)
+- 16:30-18:00 Oren (Natan Excelrod 5, bet sefer aviv)
+- 18:00 bus returns 
 ### Day 16. Monday June 12
 ##### Jerusalem
 - 08:30	Bus departs dorms Jerusalem
