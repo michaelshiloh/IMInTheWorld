@@ -31,3 +31,5 @@ Session: J-term June 2023
 - Maggie [Sun Yuan and Peng Yu](studentProjects/MaggieLi_SunYuanandPengYu.pptx)
 - Claudio [Yuri
  Vishnevsky](https://docs.google.com/presentation/d/1irQ6QLfE5Xie-Z8EVAMAWGLh92UXyODt_oHjaCBNll0/edit#slide=id.p)
+- Soomi [Nam June Paik](https://docs.google.com/presentation/d/1DSTFNzgLWF7KJa1HpUS6oafpZIjLZvEU/edit#slide=id.p1)
+- Yunho
