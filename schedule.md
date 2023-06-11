@@ -14,13 +14,6 @@ Instructor: Michael Shiloh mshiloh@nyu.edu
 Office hours: By appointment  
 Meeting times: Varies, see the [Schedule](schedule.md)  
 Session: J-term June 2023  
-- [Lecture notes](lectureNotes.md)
-- [Previous sessions](previousSessions/previousSessions)
-- [Syllabus](syllabus.md)
-- [Schedule](schedule.md)
-- [Phone Numbers and other Important Information](info.md)
-- [Homework](homework.md)
-- [Student Github Repositories](https://github.com/danielnivia/IMintheWorld)
 
 **Everything here is subject to change due to health regulations, logistics, etc.**
 

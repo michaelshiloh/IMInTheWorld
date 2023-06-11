@@ -15,13 +15,6 @@ Instructor: Michael Shiloh mshiloh@nyu.edu
 Office hours: By appointment  
 Meeting times: Varies, see the [Schedule](schedule.md)  
 Session: J-term June 2023  
-- [Lecture notes](lectureNotes.md)
-- [Previous sessions](previousSessions/previousSessions.md)
-- [Syllabus](syllabus.pdf)
-- [Schedule](schedule.md)
-- [Phone Numbers and other Important Information](info.md)
-- [Homework](homework.md)
-- [Student Github Repositories](https://github.com/danielnivia/IMintheWorld)
 
 **Everything here is subject to change due to health regulations, logistics, etc.**
 
@@ -211,6 +204,8 @@ Students will work in groups to create a final project integrating multiple
 concepts learned in the course.
 
 ### Course Schedule
+This is highly tentative and varies each semester depending on availability
+of artists, inventors, galleries, field trips, and other guest speakers
 
 Day 1. Sunday May 28 – first day class
 - Lecture:
