@@ -975,4 +975,5 @@ void loop(){}
 ## Sunday 11 June
 
 - Artist presentations
+  - Read access to everyone with the link
 - Visit Oren the artist
