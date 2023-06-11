@@ -974,6 +974,6 @@ void loop(){}
 ###### todays-lecture
 ## Sunday 11 June
 
-- Artist presentations
+- Artist [presentations](studentProjects.md)
   - Read access to everyone with the link
 - Visit Oren the artist
