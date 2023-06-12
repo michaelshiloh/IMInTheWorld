@@ -138,7 +138,7 @@ Free day (weekend)
 - 18:00 bus returns 
 ### Day 16. Monday June 12
 ##### Jerusalem
-- 08:30	Bus departs dorms Jerusalem
+- 08:30	Bus departs dorms for Jerusalem
 - 10:00-11:30 Museum on the Seam
 - 12:00	Bus to Hamiffal (lunch on your own)
 - 13:30-15:00 Hamiffal ( המערבים ,3 ירושלים)
@@ -146,11 +146,10 @@ Free day (weekend)
 - 15:30-18:30 Bloomfield Science Museum
 - 18:30	Bus returns to Tel Aviv
 ### Day 17. Tuesday June 13
-- 09:00 Finish artist presentations; discuss readings
 - 12:30	Bus departs Academic Center to Ramat Chayal
 - 13:00	Visit Airwayz, HaNehoshet Street 3, Tel Aviv
 - 15:00	Bus returns to 36 Bnei Dan Street
 ### Day 18. Wednesday June 14
 ##### Last day
-- 10:00 Final project presentations
+- 10:00 Final project presentations; discuss readings
 - Farewell dinner at [El Vecino](https://elvecino.co.il)
