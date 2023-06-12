@@ -152,4 +152,5 @@ Free day (weekend)
 ### Day 18. Wednesday June 14
 ##### Last day
 - 10:00 Final project presentations; discuss readings
+- Course evaluations
 - Farewell dinner at [El Vecino](https://elvecino.co.il)
