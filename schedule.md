@@ -151,6 +151,7 @@ Free day (weekend)
 - 15:00	Bus returns to 36 Bnei Dan Street
 ### Day 18. Wednesday June 14
 ##### Last day
-- 10:00 Final project presentations; discuss readings
+- 10:00 Final project presentations
+- Course summary
 - Course evaluations
-- Farewell dinner at [El Vecino](https://elvecino.co.il)
+- 18:45 Depart dorms for farewell dinner at [El Vecino](https://elvecino.co.il)
