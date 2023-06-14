@@ -30,7 +30,7 @@ Session: J-term June 2023
 - Yupu
   - Artist [Augmented Reality?](https://www.canva.com/design/DAFlJ1pLhAI/9qsjCD-NSf5-lsA8zvZoFQ/edit?utm_content=DAFlJ1pLhAI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - Final project 
-  [presentation](https://www.canva.com/design/DAFlr8sQXEE/Ng5kn2SZ9nPIyEz5HvQkuQ/edit?utm_content=DAFlr8sQXEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and [code])studentProjects/yupu)
+  [presentation](https://www.canva.com/design/DAFlr8sQXEE/Ng5kn2SZ9nPIyEz5HvQkuQ/edit?utm_content=DAFlr8sQXEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and [code](studentProjects/yupu)
 - Emmanuel 
     - Artist [Malik Afegbua](studentProjects/IM_Presentation_Emmanuel.pptx)
     - Final project
