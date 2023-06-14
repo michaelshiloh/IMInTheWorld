@@ -27,12 +27,25 @@ Session: J-term June 2023
 - Felipe [Sebastião Salgado](https://www.canva.com/design/DAFlQpLHLFU/bxt482U6cICAJsXec_yvMQ/edit?utm_content=DAFlQpLHLFU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Yupu
   [Augmented Reality?](https://www.canva.com/design/DAFlJ1pLhAI/9qsjCD-NSf5-lsA8zvZoFQ/edit?utm_content=DAFlJ1pLhAI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Emmanuel [Malik Afegbua](studentProjects/IM_Presentation_Emmanuel.pptx)
+- Emmanuel 
+    - Artist [Malik Afegbua](studentProjects/IM_Presentation_Emmanuel.pptx)
+    - Final project
+      [presentation](https://docs.google.com/presentation/d/1W-bhSo9oZdTbG2eJcjuqSim-uwX39FjWhHHACS5GtiE/edit?usp=sharing)
+      and [code](studentProjects/rainbow_clock)
 - Maggie [Sun Yuan and Peng Yu](studentProjects/MaggieLi_SunYuanandPengYu.pptx)
-- Claudio [Yuri
+- Claudio 
+  - Artist [Yuri
  Vishnevsky](https://docs.google.com/presentation/d/1irQ6QLfE5Xie-Z8EVAMAWGLh92UXyODt_oHjaCBNll0/edit#slide=id.p)
+  - Final
+    project [Presentation](https://www.canva.com/design/DAFlbshSKls/JCvuIadJUHFxzvs9LS--9A/edit?utm_content=DAFlbshSKls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+    and [code](studentProjects/TawfirApp/)
 - Soomi [Nam June Paik](https://docs.google.com/presentation/d/1DSTFNzgLWF7KJa1HpUS6oafpZIjLZvEU/edit#slide=id.p1)
 - Yunho
   - Artist [Sol Lewitt](https://docs.google.com/presentation/d/1ZWNAQNP5nqHjtc_TTo0STbRDum7LC2djrMNyYhH0EqA/edit?usp=sharing)
+  - [Final
+  project](https://docs.google.com/presentation/d/1cWnAkUNNm9y_IG1ijRyyMl8XaR0jGrCzZ8tGrD_FS3E/edit?usp=sharing)
+    and [code](studentProjects/Final_Project_UI_Yunho.pde)
+
+What?
   - [Final
     project](https://www.canva.com/design/DAFlr8sQXEE/Ng5kn2SZ9nPIyEz5HvQkuQ/edit?utm_content=DAFlr8sQXEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
