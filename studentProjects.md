@@ -41,7 +41,10 @@ Session: J-term June 2023
   - Final
     project [presentation](https://www.canva.com/design/DAFlbshSKls/JCvuIadJUHFxzvs9LS--9A/edit?utm_content=DAFlbshSKls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     and [code](studentProjects/TawfirApp/)
-- Soomi [Nam June Paik](https://docs.google.com/presentation/d/1DSTFNzgLWF7KJa1HpUS6oafpZIjLZvEU/edit#slide=id.p1)
+- Soomi 
+  - Artist [Nam June Paik](https://docs.google.com/presentation/d/1DSTFNzgLWF7KJa1HpUS6oafpZIjLZvEU/edit#slide=id.p1)
+  - Final project
+    [presentation](https://www.canva.com/design/DAFlvue55r4/1ClZMaFBxS8QBEUL8uPRPA/edit?utm_content=DAFlvue55r4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Yunho
   - Artist [Sol Lewitt](https://docs.google.com/presentation/d/1ZWNAQNP5nqHjtc_TTo0STbRDum7LC2djrMNyYhH0EqA/edit?usp=sharing)
   - Final
