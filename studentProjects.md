@@ -37,7 +37,7 @@ Session: J-term June 2023
   - Artist [Yuri
  Vishnevsky](https://docs.google.com/presentation/d/1irQ6QLfE5Xie-Z8EVAMAWGLh92UXyODt_oHjaCBNll0/edit#slide=id.p)
   - Final
-    project [Presentation](https://www.canva.com/design/DAFlbshSKls/JCvuIadJUHFxzvs9LS--9A/edit?utm_content=DAFlbshSKls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+    project [Presentation](https://www.canva.com/design/DAFlbshSKls/JCvuIadJUHFxzvs9LS--9A/edit?utm_content=DAFlbshSKls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     and [code](studentProjects/TawfirApp/)
 - Soomi [Nam June Paik](https://docs.google.com/presentation/d/1DSTFNzgLWF7KJa1HpUS6oafpZIjLZvEU/edit#slide=id.p1)
 - Yunho
